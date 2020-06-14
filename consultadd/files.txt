@@ -1,0 +1,20 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B6A9-8944
+
+ Directory of C:\Users\12013\consultadd
+
+05/24/2020  12:48 PM    <DIR>          .
+05/24/2020  12:48 PM    <DIR>          ..
+05/23/2020  07:19 PM    <DIR>          3
+05/23/2020  08:10 PM    <DIR>          bootcamp
+05/23/2020  08:23 PM    <DIR>          dir1
+05/24/2020  12:19 AM    <DIR>          dir2
+05/23/2020  08:23 PM    <DIR>          dir4
+05/24/2020  12:49 PM                 0 files.txt
+05/23/2020  11:50 PM                 0 icacls
+05/23/2020  08:10 PM    <DIR>          java
+05/23/2020  08:10 PM    <DIR>          javascript
+05/23/2020  08:10 PM    <DIR>          python
+05/23/2020  08:10 PM    <DIR>          sql
+               2 File(s)              0 bytes
+              11 Dir(s)  197,752,549,376 bytes free
