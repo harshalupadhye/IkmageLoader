@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>on click add sub</title>
+<link href="acron.css" rel="stylesheet" />
+<script>
+function calculation(a){
+       
+        var z=document.cal.res;
+        z.value=z.value+a.value;
+        var p=a.value
+       
+        
+        
+        
+    }
+
+
+</script>
+</head>
+<body>
+<form name="cal">
+
+
+<input type="text" name="res" class="in"/><br/>
+<table id="calc" border="1">
+   <tr>
+       <td><input class="o"type="button" name="num1" value="1" onclick="calculation(this)"/></td>
+       <td><input class="t" type="button" name="num2" value="2" onclick="calculation(this)"/></td>
+       <td><input class="th"type="button" name="num3" value="3" onclick="calculation(this)"/></td>
+   </tr> 
+   <tr>
+    <td><input class="f" type="button" name="num4" value="4" onclick="calculation(this)"/></td>
+    <td><input class="fi"  type="button" name="num5" value="5" onclick="calculation(this)"/></td>
+    <td><input class="s" type="button" name="num6" value="6" onclick="calculation(this)"/></td>
+   </tr> 
+   <tr>
+    <td><input class="se" type="button" name="num7" value="7" onclick="calculation(this)"/></td>
+    <td><input class="e" type="button" name="num8" value="8" onclick="calculation(this)"/></td>
+    <td><input class="n" type="button" name="num9" value="9" onclick="calculation(this)"/></td>
+   </tr> 
+   <tr >
+    <td class="zero"><input class="te" type="button" name="num0" value="0" onclick="calculation(this)"/></td>
+    
+   </tr> 
+   
+</table>
+<input type="button" name="back" value="BackSpace" onclick="calculations(this)"/>
+<input type="button" name="Log" value="Login" onclick=""/>
+         
+         
+         
+       
+</body>
+</html>

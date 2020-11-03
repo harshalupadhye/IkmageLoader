@@ -1,0 +1,16 @@
+h1{
+    color:rgba(0,128,0,0.5)
+
+}
+
+body{
+    background-color: rgba(173, 255, 47,0.6);
+    background-image:url("pythonlogo.png");
+    background-repeat: repeat;
+}
+div{
+    background-color: honeydew;
+    border-color: rgb(236, 106, 0);
+    border-width:2px;
+    border-style: solid;
+}

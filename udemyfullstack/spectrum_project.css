@@ -1,0 +1,47 @@
+h1{
+    color:blue;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+#one{
+    background-color:#08d9d6;
+    height: 300px;
+    width: 150px;
+    border:6px solid white;
+    box-shadow: 0 4px 6px;
+  
+}
+#two{
+    background-color:#252a34;
+    height: 300px;
+    width: 150px;
+    border:6px solid white;
+    box-shadow: 0 4px 6px;
+}
+#three{
+    background-color:#FF2E63;
+    height: 300px;
+    width: 150px;
+    border:6px solid white;
+    box-shadow: 0 4px 6px;
+    
+}
+#four{
+    background-color:#EAEAEA;
+    height: 300px;
+    width: 150px;
+    border:6px solid white;
+    box-shadow: 0 4px 6px;
+}
+#five{
+    background-color:#ff7171;
+    height: 300px;
+    width: 150px;
+    border:6px solid white;
+    box-shadow: 0 4px 6px;
+}
+.art{
+    padding:20px;
+    margin-left:510px;
+    
+}

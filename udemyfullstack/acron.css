@@ -1,0 +1,57 @@
+body{
+    background-color: cornflowerblue;
+}
+.in{
+    border-radius: 5px;
+    height: 20px;
+}
+#calc{
+    height: 200px;
+    width: 175px;
+}
+.zero{
+    position: relative;
+    left:58px ;
+}
+.o{
+
+position: absolute;
+width: 55px;
+height: 43px;
+top:38px;
+}
+.t{
+
+    position: absolute;
+    width: 55px;
+    height: 43px;
+    top:38px;
+}
+.th{
+
+    position: absolute;
+    width: 55px;
+    height: 43px;
+    top:38px;
+    }
+.f{
+
+        position: absolute;
+        width: 55px;
+        height: 43px;
+        top:80px;
+        }
+.fi{
+
+            position: absolute;
+            width: 55px;
+            height: 43px;
+            top:80px;
+            }
+.s{
+
+                position: absolute;
+                width: 55px;
+                height: 43px;
+                top:80px;
+                }
